@@ -37,5 +37,7 @@ Investment amount: 200
 
 **Execution:**
 ```bash
+git clone https://github.com/Abssdghi/python-stock-investment.git
+cd python-stock-investment
 python stocks.py
 ```
